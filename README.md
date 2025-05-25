@@ -2,9 +2,9 @@ Otovee PCOS Data Analysis Project
 This project presents a detailed analysis of a real-world medical dataset focused on Polycystic Ovary Syndrome (PCOS). It aims to uncover clinical and lifestyle patterns that differentiate PCOS and non-PCOS cases using data cleaning, visual exploration, and a Power BI dashboard.
 
 1.Objective
-To explore, clean, and analyze the PCOS dataset in order to identify key indicators (like BMI, AMH, LH/FSH ratio) and lifestyle factors (like diet and exercise) associated with PCOS risk. The goal is to assist early diagnosis and create awareness through clear insights and visualizations.
+To explore, clean, and analyze the PCOS dataset in order to identify key indicators (like BMI, AMH, LH/FSH ratio) and lifestyle factors (like diet and exercise) associated with PCOS risk. The goal is to assist early diagnosis and create awareness through clear insights and visualizations.<br>
 
-2.From Dataset to Diagnosis: Project Flow
+2.From Dataset to Diagnosis: Project Flow<br>
 -Now that the goal is set, let’s walk through the complete pipeline — from raw medical data to clean insights.
 -We begin with Data Cleaning, the essential first step in transforming messy clinical entries into reliable features ready for analysis.
 
