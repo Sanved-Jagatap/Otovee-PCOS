@@ -1,4 +1,4 @@
-Otovee PCOS Data Analysis Project
+PCOS Data Analysis Project
 This project presents a detailed analysis of a real-world medical dataset focused on Polycystic Ovary Syndrome (PCOS). It aims to uncover clinical and lifestyle patterns that differentiate PCOS and non-PCOS cases using data cleaning, visual exploration, and a Power BI dashboard.
 
 1.Objective<br>
